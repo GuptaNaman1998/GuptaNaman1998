@@ -14,9 +14,12 @@ I'm an E&TC Engineer, currently working as a Data Analyst. I'm a self-taught Pyt
 <hr>
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuptaNaman1998&count_private=true&show_icons=true&theme=radical)](https://www.linkedin.com/in/naman-gupta-275b41170/)
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaNaman1998&layout=compact&theme=radical)](https://www.linkedin.com/in/naman-gupta-275b41170/)
 
 ![Views](https://komarev.com/ghpvc/?username=GuptaNaman1998&style=plastic&color=red)
 
+For anything python or docker or AWS please do reach out!
 
-Want to collaborate? Feel free to connect😄
+Would love to collaborate on different projects & open to freelance opportunities!
